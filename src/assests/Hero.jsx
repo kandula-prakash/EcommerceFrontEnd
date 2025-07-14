@@ -27,7 +27,7 @@ const Hero = () => {
                   <div className="grid flex-shrink-0 grid-cols-1 gap-y-6 lg:gap-y-8">
                     <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                       <img
-                        src="https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+                        src="https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
                         alt=""
                         className="h-full w-full object-cover object-center"
                       />
