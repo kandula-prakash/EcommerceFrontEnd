@@ -30,7 +30,7 @@ const Footer = () => {
         </h2>
         <nav className="list-none mb-10">
           <li>
-            <a className="text-white hover:text-blue-350 cursor-pointer">First Link</a>
+            <a className="text-white hover:text-blue-350 cursor-pointer">MensWare</a>
           </li>
           <li>
             <a className="text-white hover:text-blue-350 cursor-pointer">Second Link</a>
